@@ -1,0 +1,114 @@
+{
+  "categorias": [
+    {
+      "titulo": "FrontEnd",
+      "color": "107,209,255",
+      "id": "1"
+    },
+    {
+      "titulo": "BackEnd",
+      "color": "0,200,111",
+      "id": "2"
+    },
+    {
+      "titulo": "Innovación y Gestión",
+      "color": "255,168,5",
+      "id": "3"
+    }
+  ],
+  "destacados": [
+    {
+      "categoria": "Innovación y Gestión",
+      "titulo": "Desafíos y soluciones del trabajo remoto #AluraTips",
+      "descripcion": "En el video de hoy vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto.",
+      "id_yt": "kIvnVfnmDyE",
+      "id": "0"
+    }
+  ],
+  "videos": [
+    {
+      "categoria": "Innovación y Gestión",
+      "titulo": "Desafíos y soluciones del trabajo remoto #AluraTips",
+      "descripcion": "En el video de hoy vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto.",
+      "id_yt": "kIvnVfnmDyE",
+      "id": "a1"
+    },
+    {
+      "id": "81aff676-5a50-4907-b3cd-94756b2e83a2",
+      "categoria": "FrontEnd",
+      "titulo": "Consejos para crear tu Portfolio #aluramás",
+      "descripcion": "¿Quieres destacar como programador y captar la atención de reclutadores y clientes? En este video la instructora Jeanmarie Quijada, te enseñara varios tips esenciales para diseñar y construir un portfolio que muestre tus habilidades y proyectos de manera profesional. ¡Dale Play al video y no te pierdas ninguno de sus consejos!",
+      "id_yt": "lKaXteKYbSA"
+    },
+    {
+      "categoria": "BackEnd",
+      "titulo": "Cómo volverse un desarrollador Front End #AluraTips",
+      "descripcion": "erminé mis estudios, ¿y ahora? ¿Cómo puedo entrar al mercado laboral? ¿Cómo encontrar un trabajo front end? En este video nuestra instructor Barbara nos da algunos consejos para las personas que desean entrar en el área del desarrollo web.",
+      "id_yt": "-Ou5c3A225k",
+      "id": "f577e362-16da-4368-85b1-efdb5e42c52a"
+    },
+    {
+      "id": "20ed8622-c2ac-45cc-8eea-5e4ebb73b52c",
+      "categoria": "FrontEnd",
+      "titulo": "Prepárate para entrevistas de vacantes Front End #aluratips",
+      "descripcion": "¿Te estás preparando para tus primeras entrevistas para puestos de Front End?",
+      "id_yt": "tCucAhX51v4"
+    },
+    {
+      "id": "92f75a0d-ad79-4af5-aa9a-6c5b32eb9634",
+      "categoria": "",
+      "titulo": "",
+      "descripcion": "",
+      "id_yt": ""
+    },
+    {
+      "id": "e00ee9ef-d2aa-4b50-8c08-ae944c70c751",
+      "categoria": "",
+      "titulo": "",
+      "descripcion": "",
+      "id_yt": ""
+    },
+    {
+      "id": "f5d9d075-c803-4ccc-82e1-532c425af5d2",
+      "categoria": "FrontEnd",
+      "titulo": "React Hooks: ¿qué son y cómo funcionan? | #aluramás",
+      "descripcion": "En este Alura+ el instructor Daniel Riverol nos enseña los diferentes usos de uno de los hooks más utilizados en React\n",
+      "id_yt": "9xlea2yDFaY"
+    },
+    {
+      "id": "64563e26-a74d-4dab-b06b-9a21c97b1d97",
+      "categoria": "",
+      "titulo": "",
+      "descripcion": "",
+      "id_yt": ""
+    },
+    {
+      "id": "6cd95790-a192-4def-9eb9-4065eec4db29",
+      "categoria": "",
+      "titulo": "",
+      "descripcion": "",
+      "id_yt": ""
+    },
+    {
+      "id": "a78500f5-8e51-4288-a8de-e8e28a223a96",
+      "categoria": "",
+      "titulo": "",
+      "descripcion": "",
+      "id_yt": ""
+    },
+    {
+      "id": "7db99bdf-cff6-4e71-addf-7836d6a27498",
+      "categoria": "Innovación y Gestión",
+      "titulo": "Consejos para aumentar tu productividad en el trabajo remoto",
+      "descripcion": "Sabemos que hoy en día el trabajo remoto es la realidad de muchas personas, principalmente en la área de tecnología. Pero aunque esa modalidad sea muy comoda, hay algunos factores que pueden distraernos cuando trabajamos desde casa. Por eso te traemos algunos consejos para no perder la productividad en el trabajo remoto.",
+      "id_yt": "AULPtYo25Lw"
+    },
+    {
+      "id": "2bcb30c6-fa70-4a41-9545-5978bb418882",
+      "categoria": "",
+      "titulo": "",
+      "descripcion": "",
+      "id_yt": ""
+    }
+  ]
+}
